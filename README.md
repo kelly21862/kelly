@@ -1,4 +1,4 @@
-Boas vindas ao meu perfil <3
+###Boas vindas ao meu perfil <3
 
 Meu nome é Kelly Otaviano
 
@@ -6,7 +6,7 @@ Meu nome é Kelly Otaviano
   • Estou desenvolvendo na linguagem JavaScript
   • Utilizo esse espaço para minha orgnaização e compartilhamento dos meus projetos desenvolvidos
 
-VocÊ pode entrar em contato comigo
+##Você pode entrar em contato comigo
 
 kellyotaviano23@gmail.com
 
