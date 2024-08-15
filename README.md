@@ -2,7 +2,7 @@ Boas vindas ao meu perfil 💙💙
 
 Meu nome é Kelly Otaviano
 
-  • Estou estudando na ![](https://www.alura.com.br/)
+  • Estou estudando na ![Alura](https://www.alura.com.br/)
 
   • Estou desenvolvendo na linguagem JavaScript
 
